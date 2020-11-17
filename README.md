@@ -1,4 +1,4 @@
-# WhatsApp for Linux
+# Messenger for Linux
 JavaScript/Node.JS/Electron
 
 ![screenshot](https://github.com/louckazdenekjr/messenger-for-linux/blob/master/build/screenshot.png)

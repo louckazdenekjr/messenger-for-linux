@@ -1,6 +1,8 @@
 # Messenger for Linux
 JavaScript/Node.JS/Electron
 
+---AppImage builds available under Releases---
+
 ![screenshot](https://github.com/louckazdenekjr/messenger-for-linux/blob/master/build/screenshot.png)
 
 install dependencies:

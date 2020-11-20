@@ -1,9 +1,9 @@
 # Messenger for Linux
 
+![screenshot](https://github.com/louckazdenekjr/messenger-for-linux/blob/master/build/screenshot.png)
+
 ## based on
 JavaScript/Node.JS/Electron
-
-![screenshot](https://github.com/louckazdenekjr/messenger-for-linux/blob/master/build/screenshot.png)
 
 ## getting the app
 **AppImage builds available under Releases**

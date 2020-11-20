@@ -1,10 +1,11 @@
 # Messenger for Linux
 JavaScript/Node.JS/Electron
 
+![screenshot](https://github.com/louckazdenekjr/messenger-for-linux/blob/master/build/screenshot.png)
+
 ## getting the app
 **AppImage builds available under Releases**
 
-![screenshot](https://github.com/louckazdenekjr/messenger-for-linux/blob/master/build/screenshot.png)
 
 ## build process
 install dependencies:

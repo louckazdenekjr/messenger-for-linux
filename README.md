@@ -1,10 +1,15 @@
 # Messenger for Linux
-JavaScript/Node.JS/Electron
-
-AppImage builds available under Releases
 
 ![screenshot](https://github.com/louckazdenekjr/messenger-for-linux/blob/master/build/screenshot.png)
 
+## based on
+JavaScript/Node.JS/Electron
+
+## getting the app
+**AppImage builds available under Releases**
+
+
+## build process
 install dependencies:
 npm install
 

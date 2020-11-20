@@ -1,4 +1,6 @@
-const { app, BrowserWindow, Menu } = require('electron')
+const { app, BrowserWindow, Menu} = require('electron')
+
+var path = require("path");
 
 Menu.setApplicationMenu(null);
 
@@ -7,6 +9,7 @@ function createWindow () {
     width: 1280,
     height: 960,
     backgroundColor: '#000',
+    icon: path.join(process.env.APPDIR, "messenger.png"),
     webPreferences: {
       nodeIntegration: false,
         plugins: false

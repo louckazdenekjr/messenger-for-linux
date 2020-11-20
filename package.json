@@ -21,5 +21,6 @@
             "target": "AppImage",
             "icon": "build/icon.icns"
         }
-    }
+    },
+    "dependencies": {}
 }

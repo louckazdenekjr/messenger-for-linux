@@ -1,7 +1,7 @@
 # Messenger for Linux
 
 ## based on
-JavaScript/Node.JS/Electron
+JavaScript/Node.js/Electron
 
 ## getting the app
 **AppImage builds available under Releases**
